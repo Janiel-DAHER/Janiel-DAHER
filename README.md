@@ -1,16 +1,36 @@
-### Hi there 👋
+# Welcome to my github! 👋
 
-<!--
-**Janiel-DAHER/Janiel-DAHER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+     <img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+</div>
+<!-- visitor counter -->
 
-Here are some ideas to get you started:
+<p align="center"> 
+     <img src="https://profile-counter.glitch.me/Janiel-DAHER/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me :mortar_board:
+I am 
+
+
+## What I know :computer:
+- **Competitive Programming**
+	- C/C++
+
+	 
+
+## My GitHub Statistics
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janiel-DAHER&count_private=true&theme=default&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiel-DAHER&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
+## Reach me 
+[![GitHub: Janiel-DAHER](https://img.shields.io/github/followers/Janiel-DAHER?label=Janiel-DAHER&style=social)](https://github.com/Janiel-DAHER)
+
+
+Thanks for stopping by! 😁
