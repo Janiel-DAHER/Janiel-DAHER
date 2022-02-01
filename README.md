@@ -13,7 +13,7 @@
 I am 
 
 
-## What I know :computer:
+## Développeur en programmation :
 - **Competitive Programming**
 	- C/C++
 
