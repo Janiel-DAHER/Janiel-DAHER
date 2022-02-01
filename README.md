@@ -1,7 +1,7 @@
-# Welcome to my github! 👋
+# Bienvenue sur mon GitHub ! 👋
 
 <div>
-     <img src="https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+     <img src="https://www.pexels.com/fr-fr/photo/silhouette-de-personne-sous-le-ciel-bleu-et-violet-957040=650&w=940">
 </div>
 <!-- visitor counter -->
 
@@ -14,8 +14,9 @@ I am
 
 
 ## Développeur en programmation :
-- **Competitive Programming**
-	- C/C++
+
+	- C 
+	- C++
 
 	 
 
