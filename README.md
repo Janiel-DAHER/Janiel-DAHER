@@ -1,7 +1,7 @@
 # Bienvenue sur mon GitHub ! 👋
 
 <div>
-     <img src="https://www.pexels.com/fr-fr/photo/silhouette-de-personne-sous-le-ciel-bleu-et-violet-957040">
+     <img src="https://www.pexels.com/fr-fr/photo/silhouette-de-personne-sous-le-ciel-bleu-et-violet-957040/">
 </div>
 <!-- visitor counter -->
 
