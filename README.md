@@ -5,9 +5,7 @@
 </div>
 <!-- visitor counter -->
 
-<p align="center"> 
-     <img src="https://profile-counter.glitch.me/Janiel-DAHER/count.svg" />
-</p>
+
 
 
 ## Développeur en programmation :
