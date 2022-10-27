@@ -1,19 +1,4 @@
-# Bienvenue sur mon GitHub ! 👋
 
-<div>
-     <img src="https://images.pexels.com/photos/957040/night-photograph-starry-sky-night-sky-star-957040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
-</div>
-<!-- visitor counter -->
-
-
-
-
-## Développeur en programmation :
-
-	- C 
-	- C++
-
-	 
 
 ## Statistiques GitHub
 <p>
