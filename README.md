@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  <span style="color: #333399;">Bienvenu sur mon Github
+  <span style="color: #333399;">Hi! I'm Janiel
   </span>
 </h1>
 
